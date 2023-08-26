@@ -1,8 +1,8 @@
-<h1 align="center"> Desafio intermediário - Recriando layout</h1>
+<h1 align="center"> Desafio Responsividade</h1>
 
 <p align="center">
 Programa exclusivo do Bruno Bianchi, para ensino de tecnologias WEB. <br/>
-Desafio proposto pela Rocketseat, com objetivo de recriar Layout pronto no Figma. 
+Desafio proposto pela Rocketseat, com objetivo de utilizar o recurso de responsividade. 
 
 
 </p>
@@ -14,7 +14,7 @@ Desafio proposto pela Rocketseat, com objetivo de recriar Layout pronto no Figma
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 <p align="center">
-  <img alt="" src="./imagens/respdesk.png">
+  <img alt="" src="./imagens/respdesk.png"><img alt="" src="./imagens/resmob.jpeg">
 </p>
 
 <br>
@@ -28,10 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Desafio é recriar uma aplicação, a partir de um layout
+O Desafio é utlizar o recurso de responsividade!
 
-- [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-RecriandoLayout/)
-- [Acesse o Layout no Figma](https://https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate)
+- [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-Resposividade/)
+
 
 ---
 
